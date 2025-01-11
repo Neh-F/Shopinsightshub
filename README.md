@@ -25,7 +25,7 @@ This platform is currently under development, and will soon provide sentiment an
 - GitHub Pages for hosting
 
 ## Deployment
-You can view the live website here: [ShopInsightsHub] (currently under development).
+You can view the live website here: [[ShopInsightsHub]](https://Neh-F.github.io/shopinsightshub) (currently under development).
 
 ## How to Run Locally
 1. Clone the repository:
