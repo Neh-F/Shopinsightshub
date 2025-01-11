@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store       # macOS system file
+Thumbs.db       # Windows system file
+
+# Ignore IDE-specific files
+.vscode/         # Visual Studio Code settings
+.idea/           # JetBrains IDE settings
+
+# Ignore log files
+*.log
+
+# Ignore build directories (if any future build tools are used)
+dist/
+build/
+
+# Ignore npm or Yarn directories (in case you decide to use them in the future)
+node_modules/
+
+# Ignore temporary files
+*.tmp
+*.swp          # Vim swap files
