@@ -39,7 +39,7 @@ You can view the live website here: [[ShopInsightsHub]](https://Neh-F.github.io/
 3. Open the index.html file in your browser to view the homepage.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md] file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contribution
 If you fine any bugs, have feature suggestions, or want to help improve the platform, feel freeto submit a pull request or open an issue.
